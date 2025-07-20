@@ -1,7 +1,7 @@
 ##  Screenshots
 
 ### Login Screen
-![Login Screen](assets/Login.png)
+![Login Screen](assets/LogIn.png)
 
 ---
 
